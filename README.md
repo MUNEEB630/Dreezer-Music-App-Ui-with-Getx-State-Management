@@ -1,16 +1,27 @@
-# dreezer
+# Deezer Music App Design(Responsive Design)
+A complete UI concept for the Deezer App UI screen with responsivness.
+# Packages using
+- Responsive Sizer
+- getx
 
-A new Flutter project.
+# Carousel in App ui
+The carousel is build on logic without any package from pub.dev 
 
-## Getting Started
+# UI Screen 
+<div style="display:flex; flex-direction:column">
+<img src="https://user-images.githubusercontent.com/57596726/193676984-2bd0192b-3059-4d37-9d72-d715d9cc6da2.jpeg" width=250 height=500>
+ <img src="https://user-images.githubusercontent.com/57596726/193677072-b66ece0d-8009-491d-b2ae-696f50adf250.jpeg" width=250 height=500>
+  <img src="https://user-images.githubusercontent.com/57596726/193677175-1e239298-f432-4d75-92df-cea8e9402f0c.jpeg" width=250 height=500> 
+</div>
 
-This project is a starting point for a Flutter application.
+<h1>Designed By</h1>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table align="center">
+	<tr>
+   <td align="center">
+            <a href="https://github.com/MUNEEB630">
+              <img src="https://avatars0.githubusercontent.com/u/57500072?v=4" width="100px" alt=""/><br/>
+             <sub><b>Muneeb Mirza</b></sub>
+	   </a>
+   </td>
+  </tr>
