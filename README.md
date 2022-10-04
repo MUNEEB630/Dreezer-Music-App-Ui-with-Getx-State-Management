@@ -25,4 +25,6 @@ The carousel is build on logic without any package from pub.dev
 	   </a>
    </td>
   </tr>
+
 </table>
+
